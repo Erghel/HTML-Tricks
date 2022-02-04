@@ -33,3 +33,8 @@
 ### Datalist
 
 ![изображение](https://user-images.githubusercontent.com/88831850/152545141-3acd70c4-9e31-4577-a56b-c665c59e8f5f.png)
+
+### Details + Summary
+
+![изображение](https://user-images.githubusercontent.com/88831850/152545654-399463a6-4a62-421b-9bce-427fa4176c2a.png)
+
