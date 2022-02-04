@@ -15,3 +15,7 @@
 И если мы не зададим значение, он будет ездить, как полоса загрузки
 
 ![изображение](https://user-images.githubusercontent.com/88831850/152543646-e2627473-5ddd-4330-b6a8-5ac8567889be.png)
+
+### Meter
+
+![изображение](https://user-images.githubusercontent.com/88831850/152544190-30b8e586-153c-42f7-85e3-68f0a1749c95.png)
